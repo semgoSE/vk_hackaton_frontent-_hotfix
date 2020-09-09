@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bbb585d2fc9c77520b689be1d41a8b2f",
+    "revision": "49fb729860bdd1fc85206c20fe0fa93f",
     "url": "/vk_hackaton_frontent-_hotfix/index.html"
   },
   {
-    "revision": "c1421d64474e4bdbd079",
+    "revision": "4889c2de2c87e5a0bcdf",
     "url": "/vk_hackaton_frontent-_hotfix/static/css/main.b37a7733.chunk.css"
   },
   {
-    "revision": "7970911a0d46e638dcc3",
-    "url": "/vk_hackaton_frontent-_hotfix/static/js/2.fadceaea.chunk.js"
+    "revision": "51f7556f7e3f8b3d83b7",
+    "url": "/vk_hackaton_frontent-_hotfix/static/js/2.926a85c8.chunk.js"
   },
   {
     "revision": "41b66b6fd6eecba581340794bb1831be",
-    "url": "/vk_hackaton_frontent-_hotfix/static/js/2.fadceaea.chunk.js.LICENSE.txt"
+    "url": "/vk_hackaton_frontent-_hotfix/static/js/2.926a85c8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c1421d64474e4bdbd079",
-    "url": "/vk_hackaton_frontent-_hotfix/static/js/main.cc110120.chunk.js"
+    "revision": "4889c2de2c87e5a0bcdf",
+    "url": "/vk_hackaton_frontent-_hotfix/static/js/main.7e350efa.chunk.js"
   },
   {
-    "revision": "4f9354f3f6e6f1f1ff39",
-    "url": "/vk_hackaton_frontent-_hotfix/static/js/runtime-main.0897f843.js"
+    "revision": "990290d336be23dee9a6",
+    "url": "/vk_hackaton_frontent-_hotfix/static/js/runtime-main.4104b103.js"
   },
   {
     "revision": "dfc54362fc2b0f7b99a4038b87dd9e64",

@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/vk_hackaton_frontent-_hotfix/static/css/main.b37a7733.chunk.css",
-    "main.js": "/vk_hackaton_frontent-_hotfix/static/js/main.cc110120.chunk.js",
-    "main.js.map": "/vk_hackaton_frontent-_hotfix/static/js/main.cc110120.chunk.js.map",
-    "runtime-main.js": "/vk_hackaton_frontent-_hotfix/static/js/runtime-main.0897f843.js",
-    "runtime-main.js.map": "/vk_hackaton_frontent-_hotfix/static/js/runtime-main.0897f843.js.map",
-    "static/js/2.fadceaea.chunk.js": "/vk_hackaton_frontent-_hotfix/static/js/2.fadceaea.chunk.js",
-    "static/js/2.fadceaea.chunk.js.map": "/vk_hackaton_frontent-_hotfix/static/js/2.fadceaea.chunk.js.map",
+    "main.js": "/vk_hackaton_frontent-_hotfix/static/js/main.7e350efa.chunk.js",
+    "main.js.map": "/vk_hackaton_frontent-_hotfix/static/js/main.7e350efa.chunk.js.map",
+    "runtime-main.js": "/vk_hackaton_frontent-_hotfix/static/js/runtime-main.4104b103.js",
+    "runtime-main.js.map": "/vk_hackaton_frontent-_hotfix/static/js/runtime-main.4104b103.js.map",
+    "static/js/2.926a85c8.chunk.js": "/vk_hackaton_frontent-_hotfix/static/js/2.926a85c8.chunk.js",
+    "static/js/2.926a85c8.chunk.js.map": "/vk_hackaton_frontent-_hotfix/static/js/2.926a85c8.chunk.js.map",
     "index.html": "/vk_hackaton_frontent-_hotfix/index.html",
-    "precache-manifest.aa24297d66742974de0327d29e2c0b44.js": "/vk_hackaton_frontent-_hotfix/precache-manifest.aa24297d66742974de0327d29e2c0b44.js",
+    "precache-manifest.5a291170cfae62c0b8af584e1ee53e05.js": "/vk_hackaton_frontent-_hotfix/precache-manifest.5a291170cfae62c0b8af584e1ee53e05.js",
     "service-worker.js": "/vk_hackaton_frontent-_hotfix/service-worker.js",
     "static/css/main.b37a7733.chunk.css.map": "/vk_hackaton_frontent-_hotfix/static/css/main.b37a7733.chunk.css.map",
-    "static/js/2.fadceaea.chunk.js.LICENSE.txt": "/vk_hackaton_frontent-_hotfix/static/js/2.fadceaea.chunk.js.LICENSE.txt",
+    "static/js/2.926a85c8.chunk.js.LICENSE.txt": "/vk_hackaton_frontent-_hotfix/static/js/2.926a85c8.chunk.js.LICENSE.txt",
     "static/media/1.png": "/vk_hackaton_frontent-_hotfix/static/media/1.dfc54362.png",
     "static/media/2.png": "/vk_hackaton_frontent-_hotfix/static/media/2.20489759.png",
     "static/media/3.png": "/vk_hackaton_frontent-_hotfix/static/media/3.dbf82c38.png",
@@ -25,9 +25,9 @@
     "static/media/sub.png": "/vk_hackaton_frontent-_hotfix/static/media/sub.4eb05fdd.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.0897f843.js",
-    "static/js/2.fadceaea.chunk.js",
+    "static/js/runtime-main.4104b103.js",
+    "static/js/2.926a85c8.chunk.js",
     "static/css/main.b37a7733.chunk.css",
-    "static/js/main.cc110120.chunk.js"
+    "static/js/main.7e350efa.chunk.js"
   ]
 }

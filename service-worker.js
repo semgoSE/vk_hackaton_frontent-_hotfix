@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/vk_hackaton_frontent-_hotfix/precache-manifest.aa24297d66742974de0327d29e2c0b44.js"
+  "/vk_hackaton_frontent-_hotfix/precache-manifest.5a291170cfae62c0b8af584e1ee53e05.js"
 );
 
 self.addEventListener('message', (event) => {
